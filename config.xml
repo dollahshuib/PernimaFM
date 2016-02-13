@@ -1,9 +1,0 @@
-<platform name="android|winphone|ios">
-  <preference name="phonegap-version" value="4.0.2" />
-  <preference name="orientation" value="portrait" />
-</platform>
-
-<platform name="android|winphone|ios">
-  <icon src="img/pernima.png" gap:platform="android" gap:density="ldpi" />
-  <splash src="img/pernima.png" gap:platform="android" gap:qualifier="lhdpi" />
-</platform>
